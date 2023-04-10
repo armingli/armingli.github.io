@@ -9,3 +9,6 @@ Learning without thought is labor lost; thought without learning is perilous.
 [这里](https://blog.metaprogramming.space/)是我的博客。
 
 ## 最近更新
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
