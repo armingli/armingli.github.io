@@ -14,6 +14,6 @@ Learning without thought is labor lost; thought without learning is perilous.
 - [2023.4.[16-22].Week17](https://blog.metaprogramming.space/post/12.html)
 - [Trojan 和 Nginx 共用 443 端口](https://blog.metaprogramming.space/post/11.html)
 - [Go中database,sql转Model的背后原理](https://blog.metaprogramming.space)
-- [基于Discussions的博客搭建优化](https://blog.metaprogramming.space)
-- [实现微服务中的定时任务](https://blog.metaprogramming.space/post/8.html)
+- [基于Discussions的博客搭建优化](https://blog.metaprogramming.space/post/9.html)
+- [实现微服务中的定时任务](https://blog.metaprogramming.space)
 <!-- BLOG-POST-LIST:END -->
