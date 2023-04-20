@@ -11,9 +11,9 @@ Learning without thought is labor lost; thought without learning is perilous.
 ## 最近更新
 
 <!-- BLOG-POST-LIST:START -->
+- [Essential C++](https://blog.metaprogramming.space/post/14.html)
 - [GORM时区设置](https://blog.metaprogramming.space/post/13.html)
 - [2023.4.[16-22].Week17](https://blog.metaprogramming.space/post/12.html)
 - [Trojan 和 Nginx 共用 443 端口](https://blog.metaprogramming.space/post/11.html)
 - [Go中database,sql转Model的背后原理](https://blog.metaprogramming.space)
-- [基于Discussions的博客搭建优化](https://blog.metaprogramming.space/post/9.html)
 <!-- BLOG-POST-LIST:END -->
