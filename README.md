@@ -11,9 +11,9 @@ Learning without thought is labor lost; thought without learning is perilous.
 ## 最近更新
 
 <!-- BLOG-POST-LIST:START -->
+- [C++ Move Semantics](https://blog.metaprogramming.space/post/17.html)
 - [C++ Constructors](https://blog.metaprogramming.space/post/16.html)
 - [Smart Pointers](https://blog.metaprogramming.space/post/15.html)
 - [Essential C++](https://blog.metaprogramming.space/post/14.html)
 - [GORM时区设置](https://blog.metaprogramming.space/post/13.html)
-- [2023.4.[16-22].Week17](https://blog.metaprogramming.space/post/12.html)
 <!-- BLOG-POST-LIST:END -->
