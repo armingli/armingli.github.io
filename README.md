@@ -11,9 +11,9 @@ Learning without thought is labor lost; thought without learning is perilous.
 ## 最近更新
 
 <!-- BLOG-POST-LIST:START -->
+- [《混沌工程-复杂系统韧性实现之道》笔记](https://blog.metaprogramming.space)
 - [std::function & lambda expression](https://blog.metaprogramming.space/post/19.html)
 - [Socks5原理探秘](https://blog.metaprogramming.space)
 - [C++ Move Semantics](https://blog.metaprogramming.space/post/17.html)
 - [C++ Constructors](https://blog.metaprogramming.space/post/16.html)
-- [Smart Pointers](https://blog.metaprogramming.space/post/15.html)
 <!-- BLOG-POST-LIST:END -->
