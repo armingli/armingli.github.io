@@ -11,9 +11,9 @@ Learning without thought is labor lost; thought without learning is perilous.
 ## 最近更新
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitcoin Address Types](https://blog.metaprogramming.space/post/32.html)
 - [Mastering Bitcoin, Third Edition](https://blog.metaprogramming.space/post/31.html)
 - [Puzzles about Bitcoin](https://blog.metaprogramming.space/post/30.html)
 - [区块链技术与应用-1](https://blog.metaprogramming.space/post/29.html)
 - [A Career Cold Start Algorithm](https://blog.metaprogramming.space/post/28.html)
-- [Three Main Data Replication Strategies](https://blog.metaprogramming.space/post/27.html)
 <!-- BLOG-POST-LIST:END -->
